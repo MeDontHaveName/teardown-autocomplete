@@ -2,10 +2,10 @@
   "name": "autocomplete-teardown",
   "main": "./lib/main",
   "version": "0.0.1",
-  "description": "autocomplete for teardown,
+  "description": "autocomplete for teardown",
   "keywords": [
     "autocomplete",
-    "teardown',
+    "teardown",
   ],
   "repository": "https://github.com/lonekorean/atom-autocomplete-boilerplate",
   "author": "Darkflame",
