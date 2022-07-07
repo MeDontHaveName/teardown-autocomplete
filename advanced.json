@@ -1,0 +1,7 @@
+[
+	{
+		"displayText": "GetIntParam",
+		"snippet": "GetIntParam(${1:name}, ${2: value})",
+		"description": "Return registered int with value \"name\" or \"value\" if don't exist",
+	}
+]
